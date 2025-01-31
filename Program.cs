@@ -19,11 +19,12 @@
             }
 
             Console.WriteLine();
+
             if (array1.Length == array_size)
             {
                 Console.WriteLine("Full.");
             }
-
+            Console.WriteLine ();
 
             for (int i = 0; i < array1.Length; i++)
             {
